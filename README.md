@@ -2,10 +2,10 @@ Hi✌️! I'm Mayté Mejía
 ===================================================================================================================================
 
 # Web Developer
-I'm a web developer who enjoys finding solutions to problems with users and systems. I like to be in constant learning
+I'm a web developer who enjoys finding solutions to problems with final users and systems. I like to be in constant learning
 
 * 🌍  I'm based in Oaxaca, México
-* ✉️  You can contact me at [maytemejia@live.com.mx](mailto:maytemejia@live.com.mx)
+* ✉️  You can contact me at [maytemejia@live.com.mx](mailto:maytemejia@live.com.mx) or [mmejiaps@gmail.com](mailto: mmejiaps@gmail.com)
 * 🧠  I'm learning ReactJS and VueJS
 * ⚡  I love animals 🦭
 
